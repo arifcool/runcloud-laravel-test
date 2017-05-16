@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Deployment With RunCloud
+                    Mari Guna RunCloud
                 </div>
 
                 <div class="links">
