@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Mari Guna RunCloud
+                    Mari Guna RunCloud2
                 </div>
 
                 <div class="links">
